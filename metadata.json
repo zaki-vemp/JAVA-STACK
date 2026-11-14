@@ -1,0 +1,6 @@
+{
+  "name": "StackAtlas — Java, Kotlin, Spring Boot & PostgreSQL Interview Studio",
+  "description": "Interactive interview-focused engineering documentation, visual runtime simulators, and syntax practice studio for Java, Kotlin, Spring Boot, PostgreSQL, and full-stack architecture.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
